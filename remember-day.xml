@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><app>
+	<setting>
+		<interval>00:45:00</interval>
+		<part-day>constanly</part-day>
+		<before>true</before>
+		<after>true</after>
+		<prompt-days>1</prompt-days>
+	</setting>
+	
+	
+<days>
+        <day>
+			<who>День влюбленных</who>
+			<description>день всех влюбленных</description>
+			<date>14.02</date>
+			<time>none</time>
+			<image>img/love.jpg</image>
+		</day>
+		<day>
+			<who>8 марта</who>
+			<description>Праздник женчин</description>
+			<date>08.03</date>
+			<time>none</time>
+			<image>img/8-marth.jpg</image>
+		</day>
+		<day>
+			<who>1 апреля</who>
+			<description>1 апреля никому нельзя верить</description>
+			<date>01.04</date>
+			<time>none</time>
+			<image>img/1-april.jpg</image>
+		</day>
+		<day>
+			<who>9 Мая</who>
+			<description>День победы</description>
+			<date>09.05</date>
+			<time>none</time>
+			<image>img/9may.jpg</image>
+		</day>
+		<day>
+			<who>День программиста</who>
+			<description>256 день в году день программиста</description>
+			<date>13.09</date>
+			<time>none</time>
+			<image>img/happy-birthday.jpg</image>
+		</day>
+		<day>
+			<who>Новый Год</who>
+			<description>Новый год</description>
+			<date>31.12</date>
+			<time>none</time>
+			<image>img/now-year.jpg</image>
+		</day>
+	<day><who>now</who><description>It's now day</description><date>24.03</date><time>none</time><image>none</image></day></days></app>
